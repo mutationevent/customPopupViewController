@@ -13,6 +13,7 @@
 		DE8769A51C2B7DE700319C45 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DE8769A41C2B7DE700319C45 /* Assets.xcassets */; };
 		DE8769A81C2B7DE700319C45 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DE8769A61C2B7DE700319C45 /* LaunchScreen.storyboard */; };
 		DE8769B01C2B7FC800319C45 /* PopupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE8769AF1C2B7FC800319C45 /* PopupViewController.swift */; };
+		DE8769B21C2B954E00319C45 /* Simulator Screen Shot 24 déc. 2015 02.49.47.png in Resources */ = {isa = PBXBuildFile; fileRef = DE8769B11C2B954E00319C45 /* Simulator Screen Shot 24 déc. 2015 02.49.47.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		DE8769A71C2B7DE700319C45 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DE8769A91C2B7DE700319C45 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DE8769AF1C2B7FC800319C45 /* PopupViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PopupViewController.swift; sourceTree = "<group>"; };
+		DE8769B11C2B954E00319C45 /* Simulator Screen Shot 24 déc. 2015 02.49.47.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot 24 déc. 2015 02.49.47.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +42,7 @@
 		DE8769911C2B7DE600319C45 = {
 			isa = PBXGroup;
 			children = (
+				DE8769B11C2B954E00319C45 /* Simulator Screen Shot 24 déc. 2015 02.49.47.png */,
 				DE87699C1C2B7DE700319C45 /* CustomPopup */,
 				DE87699B1C2B7DE700319C45 /* Products */,
 			);
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DE8769B21C2B954E00319C45 /* Simulator Screen Shot 24 déc. 2015 02.49.47.png in Resources */,
 				DE8769A81C2B7DE700319C45 /* LaunchScreen.storyboard in Resources */,
 				DE8769A51C2B7DE700319C45 /* Assets.xcassets in Resources */,
 				DE8769A31C2B7DE700319C45 /* Main.storyboard in Resources */,
